@@ -10,7 +10,7 @@ Excel is a powerful and versatile tool, capable of transforming raw data into **
 ![Transportation Dashboard](./Transportation%20Dashboard%20Screenshot%20.png)
 
 
-## 🔍 Key Questions Addressed:
+## Key Questions Addressed:
 1️⃣ **Bus Utilization:** Identifying the busiest and least busy routes  
 2️⃣ **Peak and Off-Peak Hours:** Determining the most and least congested times of operation  
 3️⃣ **Year-over-Year Changes:** Analyzing trends and identifying areas for improvement
@@ -30,16 +30,18 @@ Excel is a powerful and versatile tool, capable of transforming raw data into **
 😊 Enhanced **service efficiency** and **customer satisfaction**  
 💲 Opportunities for **cost reduction** and **revenue growth**
 
-## 🛠 Tools Used:
+## Tools Used:
 - **Microsoft Excel**
 - **Power Query**
 - **PivotTables**
 - **Data Visualization & Dashboard Design**
 
 ## Files Included:
-- `Bus Transportation Dashboard.xlsx` — The interactive Excel dashboard  
-- `Transportation Dashboard Screenshot .png` — Dashboard preview image
+- [`Bus Transportation Dashboard.xlsx`](./Bus%20Transportation%20Dashboard.xlsx) — The interactive Excel dashboard  
+- [`Transportation Dashboard Screenshot.png`](./Transportation%20Dashboard%20Screenshot%20.png) — Dashboard preview image  
+- [`Dataset-Excel Transportation.zip`](./Dataset-Excel%20Transportation.zip) — Raw dataset used for analysis (zipped)
 
-## 🙌 Let's Connect!
-If you found this project interesting or useful, feel free to ⭐ star the repo or connect with me on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/winnie-madikizella-data/)).
+
+## Let's Connect!
+If you found this project interesting or useful, feel free to ⭐ star the repo or connect with me on https://www.linkedin.com/in/winnie-madikizella-data/.
 
