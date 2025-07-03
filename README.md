@@ -1,5 +1,6 @@
 # Bus Transportation Analysis Dashboard
-An interactive Excel dashboard analyzing bus transportation trends, usage, and performance for operational decision-making. Built using Excel with Power Query and PivotTables.
+An interactive Excel dashboard analyzing bus transportation trends, usage, and performance to support operational decision-making.  
+Built using Excel with Power Query and PivotTables, this project transforms raw transportation data into actionable insights for better planning and resource allocation.
 
 Excited to share my latest project: an **interactive Bus Transportation Analysis dashboard built in Excel!**  
 This project aimed to extract **actionable insights** from transportation data, empowering decision-makers and optimizing operations.  
@@ -28,6 +29,22 @@ Excel is a powerful and versatile tool, capable of transforming raw data into **
 😊 Enhanced **service efficiency** and **customer satisfaction**  
 💲 Opportunities for **cost reduction** and **revenue growth**
 
+## Data Model
+The dashboard is built on a structured star schema for efficient reporting and analysis in Excel Power Pivot.  
+
+ **Schema Overview:**
+- **Fact Table:** `Facttable_ridership` — Tracks each bus trip, rider, date, and utilization  
+- **Dimensions:**  
+  - `Dim_routes` — Route details  
+  - `Dim_buses` — Bus capacity & route link  
+  - `Dim_demographics` — Rider age, gender, occupation  
+  - `Dim_DateTable` — Calendar metadata  
+  - `Calculations` — DAX measures used in the dashboard
+
+ **Relationship Diagram:** 
+
+![Data Model - Relationship Screenshot](Relationship%20Screenshot%20.png)
+
 ## Tools Used:
 - **Microsoft Excel**
 - **Power Query**
@@ -41,5 +58,6 @@ Excel is a powerful and versatile tool, capable of transforming raw data into **
 
 
 ## Let's Connect!
-If you found this project interesting or useful, feel free to ⭐ star the repo or connect with me on https://www.linkedin.com/in/winnie-madikizella-data/.
+If you found this project interesting or useful, feel free to ⭐ star the repo or [connect with me on LinkedIn](https://www.linkedin.com/in/winnie-madikizella-data/).
+
 
