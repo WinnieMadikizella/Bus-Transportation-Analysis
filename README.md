@@ -26,10 +26,10 @@ Excel, when paired with automation and a solid data model, becomes a powerful to
 ✅ **Year-over-year change** is **-83.50%**, highlighting the need for strategic action
 
 ## Why This Matters:
-📈 **Automated reporting** means less manual work and more time for **strategic decision-making**
-🚍 **Route optimization** and **resource allocation** based on live, updated data
-😊 Enhanced **service efficiency** and **customer satisfaction**  
-💲 Opportunities for **cost reduction** and **revenue growth**
+- **Automated reporting** means less manual work and more time for **strategic decision-making**
+- **Route optimization** and **resource allocation** based on live, updated data
+- Enhanced **service efficiency** and **customer satisfaction**  
+- Opportunities for **cost reduction** and **revenue growth**
 
 ## Data Model
 The dashboard is built on a structured star schema for efficient reporting and automated refresh in Excel Power Pivot.  
