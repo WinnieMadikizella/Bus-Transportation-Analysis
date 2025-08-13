@@ -48,6 +48,8 @@ The dashboard is built on a structured star schema for efficient reporting and a
 ## Tools Used:
 - **Microsoft Excel**
 - **Power Query**
+- **Power Pivot**
+- **DAX**
 - **PivotTables**
 - **Data Visualization & Dashboard Design**
 
