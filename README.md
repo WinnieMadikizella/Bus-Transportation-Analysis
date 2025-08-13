@@ -1,10 +1,11 @@
 # Bus Transportation Analysis Dashboard
-An interactive Excel dashboard analyzing bus transportation trends, usage, and performance to support operational decision-making.  
-Built using Excel with Power Query and PivotTables, this project transforms raw transportation data into actionable insights for better planning and resource allocation.
+An automated, interactive Excel dashboard analyzing bus transportation trends, usage, and performance to support operational decision-making.
+Built using Excel with Power Query and PivotTables, this solution is designed to allow you to simply refresh the data as new information becomes available, instantly updating all visuals, KPIs, and insights.
+This project transforms raw transportation data into dynamic, decision-ready intelligence for better planning and resource allocation.
 
-Excited to share my latest project: an **interactive Bus Transportation Analysis dashboard built in Excel!**  
-This project aimed to extract **actionable insights** from transportation data, empowering decision-makers and optimizing operations.  
-Excel is a powerful and versatile tool, capable of transforming raw data into **dynamic, decision-ready insights**.
+Excited to share my latest project: an **automated Bus Transportation Analysis dashboard built in Excel!**  
+This project extracts actionable insights from transportation data, enabling decision-makers to make informed decisions and optimize operations.
+Excel, when paired with automation and a solid data model, becomes a powerful tool for real-time decision support.
 
 ![Transportation Dashboard](./Transportation%20Dashboard%20Screenshot%20.png)
 
@@ -25,12 +26,13 @@ Excel is a powerful and versatile tool, capable of transforming raw data into **
 ✅ **Year-over-year change** is **-83.50%**, highlighting the need for strategic action
 
 ## Why This Matters:
-📈 **Route optimization** and **resource allocation**  
+📈 **Automated reporting** means less manual work and more time for **strategic decision-making**
+🚍 **Route optimization** and **resource allocation** based on live, updated data
 😊 Enhanced **service efficiency** and **customer satisfaction**  
 💲 Opportunities for **cost reduction** and **revenue growth**
 
 ## Data Model
-The dashboard is built on a structured star schema for efficient reporting and analysis in Excel Power Pivot.  
+The dashboard is built on a structured star schema for efficient reporting and automated refresh in Excel Power Pivot.  
 
  **Schema Overview:**
 - **Fact Table:** `Facttable_ridership` — Tracks each bus trip, rider, date, and utilization  
@@ -47,8 +49,8 @@ The dashboard is built on a structured star schema for efficient reporting and a
 
 ## Tools Used:
 - **Microsoft Excel**
-- **Power Query**
-- **Power Pivot**
+- **Power Query** (for automated data extraction and transformation)
+- **Power Pivot** (for automated model refresh)
 - **DAX**
 - **PivotTables**
 - **Data Visualization & Dashboard Design**
